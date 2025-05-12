@@ -1,6 +1,6 @@
 title: Your awesome title
 author:
-  name: GitHub User
+  name: been-going
   email: your-email@domain.com
 
 description: >
@@ -53,7 +53,7 @@ minima:
   social_links:
     - title: Minima Theme repository at GitHub
       icon: github
-      url: "https://github.com/jekyll/minima"
-    - title: Jekyll at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/jekyllrb"
+      url: "https://been-going.github.io"
+    # - title: Jekyll at X (formerly Twitter)
+    #   icon: x-twitter
+    #   url: "https://x.com/jekyllrb"
