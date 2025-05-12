@@ -28,10 +28,10 @@
 #   do not affect your site adversely.
 # remote_theme: jekyll/minima@d4d779a
 
-# Minima requires the following plugins:
-# plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+Minima requires the following plugins:
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 
 # Uncomment the following setting if you wish to disable deprecation warnings
 #   from newer versions of sass converter. Adapt as required.
@@ -69,7 +69,7 @@
   # Minima date format.
   #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
   #   Refer to https://shopify.github.io/liquid/filters/date/ for valid values
-  # date_format: "%b-%d-%Y"
+  date_format: "%b-%d-%Y"
 
 #   Social Media Links.
 #     Renders icons via Font Awesome Free webfonts CDN, based on ordered list of
@@ -80,7 +80,7 @@
 #   social_links:
 #     - title: Minima Theme repository at GitHub
 #       icon: github
-  # url: "https://been-going.github.io"
+  url: "https://been-going.github.io"
 #     # - title: Jekyll at X (formerly Twitter)
 #     #   icon: x-twitter
 #     #   url: "https://x.com/jekyllrb"
