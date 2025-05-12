@@ -28,7 +28,7 @@
 #   do not affect your site adversely.
 # remote_theme: jekyll/minima@d4d779a
 
-Minima requires the following plugins:
+# Minima requires the following plugins:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
@@ -80,7 +80,7 @@ plugins:
 #   social_links:
 #     - title: Minima Theme repository at GitHub
 #       icon: github
-  url: "https://been-going.github.io"
+#       url: "https://been-going.github.io"
 #     # - title: Jekyll at X (formerly Twitter)
 #     #   icon: x-twitter
 #     #   url: "https://x.com/jekyllrb"
